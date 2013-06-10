@@ -1,0 +1,27 @@
+Yahoo : 
+
+OAuth Required
+Sign Up to get a Request Key and then exchange it for Access Token
+We need to know YQL which is similar to SQL to explore the data
+Data divided into Resources like game,league,team,player and Collection which is a group of resources
+GET HTTP protocol is supported
+The resources in detail are
+1.Game
+2.League 
+3.Team
+4.Roster
+5.Player
+6.Transaction
+7.User
+10000 signed and 1000 unsigned calls per hour
+Response is XML
+
+
+
+CBS :
+
+Our Fantasy Platform application will reside in an iframe on the CBSI Fantasy Sports site
+Our application will have extensive access to the the CBSI fantasy sports system and data 
+Similar Structure of Resource and Collections
+Access Token given directly by the CBSI site which is valid for 3 days
+Response is XML or JSOn
